@@ -3225,6 +3225,7 @@ cursor: pointer;
   border: none;
   box-shadow: none;
 }
+
 .navsearch {
   margin: auto;
   width: 100%;
@@ -5713,7 +5714,4 @@ hr.source-code::after {
 }
 .cdn-map-container {
   background-color: #313945;
-}
-:focus, input:focus {
-    outline: none !important;
 }
