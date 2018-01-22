@@ -1,17 +1,14 @@
-<script>
-  (function() {
-    var cx = '003083871467663611719:iwjn-dav4gm';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+<script type="text/javascript"> docsearch({
+ apiKey: '348b85d42c69d6243459586ebe782c25',
+ indexName: 'pantheon',
+ inputSelector: '#docsearch',
+ debug: false // Set debug to true if you want to inspect the dropdown
+});
 </script>
 
-<form id="searchform" action="/docs/search" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded">
+<form id="searchform">
   <div>
-    <input type="search" placeholder="Search Pantheon Documentation"value="" name="term" id="piodocsearch" autocomplete="on" />
+    <input type="search" placeholder="Search Pantheon Docs" id="docsearch" />
   </div>
 </form>
