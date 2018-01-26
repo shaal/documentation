@@ -12,12 +12,12 @@ Every Pantheon site comes with three environments: Dev, Test, and Live. Separate
   <p>Optimize your dev team and streamline internal workflows. Pantheon delivers custom workshops to help development teams master our platform and improve their internal DevOps.</p>
 </div>
 
-## Code VS Files
+## Code VS Content
 
 One of the core concepts at the heart of the Pantheon workflow is the distinction between **code** and **files**.
 
  - **Code** is the core of your CMS, plugins/modules, themes, css, javascript - anything that builds and shapes your site.
- - **Files** is your content. Static images, posts, PDF files, and the database itself.
+ - **Content** is your files (static images, posts, PDF files), and the database itself.
 
 ### Code Moves Up, Content Moves Down
 <img src="/source/docs/assets/images/workflow.png" alt="Dev Test and Live icon" style="border:0;margin-left:auto;margin-right:auto;display:block;">
