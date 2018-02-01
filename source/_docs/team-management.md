@@ -44,7 +44,7 @@ The Site Team generally consists of one Site Owner and any necessary Team Member
         <td>✓</td>
       </tr>
       <tr>
-        <td>Access [Pantheon Support](/docs/getting-support/)</td>
+         <td>Access <a href="/docs/getting-support/">Pantheon Support</a></td>
         <td>✓</td>
         <td>✓</td>
       </tr>
