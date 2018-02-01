@@ -92,7 +92,7 @@ The Site Team generally consists of one Site Owner and any necessary Team Member
   </table>
 Once a site has been associated with an [organization](/docs/organizations/), either through ownership or a relationship with a supporting organization, [Role-Based Permissions & Change Management](/docs/change-management) permissions are available.
 <div class="alert alert-info" role="alert">
-<h4 class="info">Note</h4><p>When a site has a Supporting Organization, the Developers and Team-members from the Organization may manage Multidev Environments, while members of the Site Team will not be able to Create, Delete, or Merge commits from Multidevs.</p>
+<h4 class="info">Note</h4><p>For Sites associated with an Organization, the Developers and Team-members from the Organization may manage Multidev Environments, while members of the Site Team will not be able to Create, Delete, or Merge commits from Multidevs.</p>
 </div>
 
 ## Manage Site Team Members
