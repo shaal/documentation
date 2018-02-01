@@ -44,6 +44,16 @@ The Site Team generally consists of one Site Owner and any necessary Team Member
         <td>✓</td>
       </tr>
       <tr>
+          <td>Create and Delete <a href="/docs/multidev/">Multidev Environments</a><a rel="popover" data-proofer-ignore data-toggle="tooltip" data-html="true" data-title="Business" data-content="Available on Business and Elite sites"><em class="fa fa-info-circle"></em></a></td>
+        <td>✓</td>
+        <td>✓</td>
+      </tr>
+      <tr>
+          <td>Merge <a href="/docs/multidev/">Multidevs</a> into Dev<a rel="popover" data-proofer-ignore data-toggle="tooltip" data-html="true" data-title="Business" data-content="Available on Business and Elite sites"><em class="fa fa-info-circle"></em></a></td>
+        <td>✓</td>
+        <td>✓</td>
+      </tr>
+      <tr>
          <td>Access <a href="/docs/getting-support/">Pantheon Support</a></td>
         <td>✓</td>
         <td>✓</td>
@@ -81,6 +91,9 @@ The Site Team generally consists of one Site Owner and any necessary Team Member
     </tbody>
   </table>
 Once a site has been associated with an [organization](/docs/organizations/), either through ownership or a relationship with a supporting organization, [Role-Based Permissions & Change Management](/docs/change-management) permissions are available.
+<div class="alert alert-info" role="alert">
+<h4 class="info">Note</h4><p>When a site has a Supporting Organization, the Developers and Team-members from the Organization may manage Multidev Environments, while members of the Site Team will not be able to Create, Delete, or Merge commits from Multidevs.</p>
+</div>
 
 ## Manage Site Team Members
 You can add and delete users in the Team modal by clicking **Team** in the upper-right of your Site Dashboard.
